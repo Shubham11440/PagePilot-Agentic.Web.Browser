@@ -17,6 +17,9 @@ Looking for a powerful AI web agent without the $200/month price tag of OpenAI O
 - **⚡ Flexible LLM Options** - Connect to your preferred LLM providers with freedom to choose different models for different agents.
 - **🔓 Fully Open Source** - Complete transparency in how your browser is automated. No black boxes or hidden processes.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/04404dbe-6167-44eb-9fa8-7020a1039a2d" />
+
+![image](https://github.com/user-attachments/assets/d47c45ce-dce5-492a-9cde-5375181f53a1)
 
 ## 📊 Key Features
 
